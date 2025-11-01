@@ -1,8 +1,111 @@
-baseURL: https://example.org/
+baseURL: "https://becon032.github.io/"
+title: "Bartosz Jarzębowski"
 theme: ["PaperMod"]
-languageCode: en-us
-title: Becon032 Hugo Site
 
+enableEmoji: true
+
+languages:
+
+  en:
+    languageName: 🇬🇧
+    languageCode: en-US
+    weight: 1
+    params:
+      languageAltTitle: "English"
+
+    menu:
+      main:
+        - name: Projects
+          url: projects/
+          weight: 10
+        - name: Makes
+          url: makes/
+          weight: 20
+        - name: Beer
+          url: beer/
+          weight: 30
+        - name: Search
+          url: search/
+          weight: 100
+        - name: Archives
+          url: archives/
+          weight: 100
+
+  pl:
+    languageName: 🇵🇱
+    languageCode: pl-PL
+    weight: 2
+    params:
+      languageAltTitle: "Polski"
+
+    menu:
+      main:
+        - name: Projekty
+          url: projects/
+          weight: 10
+        - name: Makes
+          url: makes/
+          weight: 20
+        - name: Piwo
+          url: beer/
+          weight: 30
+        - name: Szukaj
+          url: search/
+          weight: 100
+        - name: Archiwa
+          url: archives/
+          weight: 100
+
+# end lang
+
+params:
+  # ShowToc: true
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowCodeCopyButtons: true
+  displayFullLangName: true
+  ShowPageNums: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowAllPagesInArchive: true
+
+  homeInfoParams:
+
+    Title: "Hello World!"
+    Content: >
+      I'm a developer with 3+ years of experience specializing in games and VR training applications using Unity Engine. I'm especially passionate about creating games and apps that people genuinely use and connect with. In my spare time, I enjoy working on non-VR titles, where I can experiment with new mechanics, prototype ideas, and push creative boundaries.
+
+  socialIcons:
+    - name: "Github"
+      url: "https://github.com/Becon032/"
+
+    - name: "X"
+      url: "https://x.com/Becon032"
+
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/bartosz-jarz%C4%99bowski-5b8b3a1b8/"
+
+    - name: "Discord"
+      title: "Contact me at Discord"
+      url: "https://discordapp.com/users/256762652565569536/"
+
+    - name: email
+      url: "mailto:bartoszjarzebowski@proton.me"
+
+    - name: "cv"
+      title: "Résumé.pdf"
+      url: "https://jarzebowski.net/static/Jarzebowski-resume-1e9c9165533014cd572ac4dc9e47c9f7.pdf"
+  #socialIcons
+
+  
+# Gitlab chash images
 caches:
   images:
     dir: :cacheDir/images
+
+# Search
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
