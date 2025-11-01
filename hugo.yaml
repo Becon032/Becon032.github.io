@@ -2,3 +2,7 @@ baseURL: https://example.org/
 theme: ["PaperMod"]
 languageCode: en-us
 title: Becon032 Hugo Site
+
+caches:
+  images:
+    dir: :cacheDir/images
