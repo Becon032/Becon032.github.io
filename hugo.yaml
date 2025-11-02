@@ -1,6 +1,6 @@
 baseURL: "https://becon032.github.io/"
 title: "Bartosz Jarzębowski"
-theme: ["PaperMod"]
+theme: ["hugo-chart", "PaperMod"]
 
 enableEmoji: true
 menu:
@@ -56,8 +56,8 @@ params:
         url: tags/commercial-work/
       # - name: Makes
       #   url: makes/
-      # - name: Beer
-      #   url: beer/
+      - name: Beer
+        url: beer/
 
 
 
@@ -79,16 +79,14 @@ languages:
     params:
       languageAltTitle: "Polski"
 
-      profileMode:
-        title: "Witaj Swiecie!"
+      # profileMode:
+        # title: "Witaj Swiecie!"
         # subtitle: "Blog o moich projektach"
         # buttons:
           # - name: Projekty
           #   url: projects/
           # - name: Makes
           #   url: makes/
-          # - name: Piwo
-          #   url: beer/
 
 
     # menu:
