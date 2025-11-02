@@ -1,11 +1,10 @@
 ---
 date: "2021-10-01"
 draft: true
-title: "Tanker operations"
+title: "Tanker operations VR"
 summary: "Training application for employees of Linde Gas Poland."
 description: "Training application for employees of Linde Gas Poland."
-tags: ["Unity", "VR", "C#", "Training app"]
-
+tags: ["Unity", "VR", "C#", "Training app", "Commercial work"]
 ---
 
 # About

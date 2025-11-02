@@ -3,63 +3,26 @@ title: "Bartosz Jarzębowski"
 theme: ["PaperMod"]
 
 enableEmoji: true
-
-languages:
-
-  en:
-    languageName: 🇬🇧
-    languageCode: en-US
-    weight: 1
-    params:
-      languageAltTitle: "English"
-
-    menu:
-      main:
-        - name: Projects
-          url: projects/
-          weight: 10
-        - name: Makes
-          url: makes/
-          weight: 20
-        - name: Beer
-          url: beer/
-          weight: 30
-        - name: Search
-          url: search/
-          weight: 100
-        - name: Archives
-          url: archives/
-          weight: 100
-
-  pl:
-    languageName: 🇵🇱
-    languageCode: pl-PL
-    weight: 2
-    params:
-      languageAltTitle: "Polski"
-
-    menu:
-      main:
-        - name: Projekty
-          url: projects/
-          weight: 10
-        - name: Makes
-          url: makes/
-          weight: 20
-        - name: Piwo
-          url: beer/
-          weight: 30
-        - name: Szukaj
-          url: search/
-          weight: 100
-        - name: Archiwa
-          url: archives/
-          weight: 100
-
-# end lang
-
+menu:
+  main:
+    - name: Projects
+      url: projects/
+      weight: 10
+    - name: Makes
+      url: makes/
+      weight: 20
+    - name: Beer
+      url: beer/
+      weight: 30
+    - name: Tags
+      url: tags/
+      weight: 100
+    - name: Search
+      url: search/
+      weight: 110
+    
 params:
-  # ShowToc: true
+  ShowToc: true
   defaultTheme: auto
   ShowReadingTime: true
   ShowCodeCopyButtons: true
@@ -69,33 +32,82 @@ params:
   ShowBreadCrumbs: true
   ShowAllPagesInArchive: true
 
-  homeInfoParams:
-
-    Title: "Hello World!"
-    Content: >
-      I'm a developer with 3+ years of experience specializing in games and VR training applications using Unity Engine. I'm especially passionate about creating games and apps that people genuinely use and connect with. In my spare time, I enjoy working on non-VR titles, where I can experiment with new mechanics, prototype ideas, and push creative boundaries.
-
   socialIcons:
     - name: "Github"
       url: "https://github.com/Becon032/"
-
     - name: "X"
       url: "https://x.com/Becon032"
-
     - name: "LinkedIn"
       url: "https://www.linkedin.com/in/bartosz-jarz%C4%99bowski-5b8b3a1b8/"
-
-    - name: "Discord"
-      title: "Contact me at Discord"
-      url: "https://discordapp.com/users/256762652565569536/"
-
     - name: email
       url: "mailto:bartoszjarzebowski@proton.me"
-
     - name: "cv"
       title: "Résumé.pdf"
       url: "https://jarzebowski.net/static/Jarzebowski-resume-1e9c9165533014cd572ac4dc9e47c9f7.pdf"
-  #socialIcons
+
+  profileMode:
+    enabled: true
+    title: "Hello World!"
+    imageUrl: "https://jarzebowski.net/static/27cff0a524be35efac415abe628e9812/39870/lab-xr.webp"
+    buttons:
+      # - name: Projects
+      #   url: projects/
+      - name: Commercial Projects
+        url: tags/commercial-work/
+      # - name: Makes
+      #   url: makes/
+      # - name: Beer
+      #   url: beer/
+
+
+
+
+
+languages:
+
+  en:
+    languageName: 🇬🇧 English
+    languageCode: en-US
+    weight: 1
+    params:
+      languageAltTitle: "English"
+
+  pl:
+    languageName: 🇵🇱 Polski
+    languageCode: pl-PL
+    weight: 2
+    params:
+      languageAltTitle: "Polski"
+
+      profileMode:
+        title: "Witaj Swiecie!"
+        # subtitle: "Blog o moich projektach"
+        # buttons:
+          # - name: Projekty
+          #   url: projects/
+          # - name: Makes
+          #   url: makes/
+          # - name: Piwo
+          #   url: beer/
+
+
+    # menu:
+    #   main:
+    #     - name: Projekty
+    #       url: projects/
+    #       weight: 10
+    #     - name: Makes
+    #       url: makes/
+    #       weight: 20
+    #     - name: Piwo
+    #       url: beer/
+    #       weight: 30
+    #     - name: Tagi
+    #       url: tags/
+    #       weight: 100
+    #     - name: Szukaj
+    #       url: search/
+    #       weight: 110
 
   
 # Gitlab chash images
@@ -109,3 +121,9 @@ outputs:
     - HTML
     - RSS
     - JSON # necessary for search
+
+# sub sub markdown
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
