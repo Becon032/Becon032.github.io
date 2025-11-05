@@ -5,8 +5,8 @@ theme: ["hugo-chart", "PaperMod"]
 enableEmoji: true
 menu:
   main:
-    - name: Projects
-      url: projects/
+    - name: My professional work
+      url: professional-work
       weight: 10
     - name: Makes
       url: makes/
@@ -14,12 +14,9 @@ menu:
     - name: Beer
       url: beer/
       weight: 30
-    - name: Tags
-      url: tags/
-      weight: 100
     - name: Search
       url: search/
-      weight: 110
+      weight: 100
     
 params:
   ShowToc: true
@@ -45,22 +42,14 @@ params:
       title: "Résumé.pdf"
       url: "https://jarzebowski.net/static/Jarzebowski-resume-1e9c9165533014cd572ac4dc9e47c9f7.pdf"
 
-  profileMode:
-    enabled: true
+  homeInfoParams:
     title: "Hello World!"
-    imageUrl: "https://jarzebowski.net/static/27cff0a524be35efac415abe628e9812/39870/lab-xr.webp"
-    buttons:
-      # - name: Projects
-      #   url: projects/
-      - name: Commercial Projects
-        url: tags/commercial-work/
-      # - name: Makes
-      #   url: makes/
-      - name: Beer
-        url: beer/
+    content: "About me is here!"
 
-
-
+  mainSections:
+    - beer
+    - makes
+    - professional-work
 
 
 languages:
@@ -79,35 +68,11 @@ languages:
     params:
       languageAltTitle: "Polski"
 
-      # profileMode:
-        # title: "Witaj Swiecie!"
-        # subtitle: "Blog o moich projektach"
-        # buttons:
-          # - name: Projekty
-          #   url: projects/
-          # - name: Makes
-          #   url: makes/
-
-
-    # menu:
-    #   main:
-    #     - name: Projekty
-    #       url: projects/
-    #       weight: 10
-    #     - name: Makes
-    #       url: makes/
-    #       weight: 20
-    #     - name: Piwo
-    #       url: beer/
-    #       weight: 30
-    #     - name: Tagi
-    #       url: tags/
-    #       weight: 100
-    #     - name: Szukaj
-    #       url: search/
-    #       weight: 110
-
+      homeInfoParams:
+        title: "Witaj World!"
+        content: "Polski about me!"
   
+
 # Gitlab chash images
 caches:
   images:

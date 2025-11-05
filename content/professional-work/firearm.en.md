@@ -4,8 +4,7 @@ draft: true
 title: "Firearm Training VR"
 summary: "Realistic VR firearm training simulation for police employees."
 description: "Realistic VR firearm training simulation for police employees."
-tags: ["Unity", "VR", "C#", "Training app", "Commercial work", "Haptic device"]
-
+tags: ["Unity", "VR", "Haptic device"]
 ---
 
 # About

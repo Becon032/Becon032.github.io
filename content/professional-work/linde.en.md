@@ -4,7 +4,7 @@ draft: true
 title: "Tanker operations VR"
 summary: "Training application for employees of Linde Gas Poland."
 description: "Training application for employees of Linde Gas Poland."
-tags: ["Unity", "VR", "C#", "Training app", "Commercial work"]
+tags: ["Unity", "VR"]
 ---
 
 # About

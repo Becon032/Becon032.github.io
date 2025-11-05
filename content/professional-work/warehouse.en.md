@@ -4,8 +4,7 @@ draft: true
 title: "Warehouse planner VR"
 summary: "Production warehouse hall planner for managment students."
 description: "Production warehouse hall planner for managment students."
-tags: ["Unity", "VR", "C#", "Training app", "Commercial work"]
-
+tags: ["Unity", "VR"]
 ---
 
 # About

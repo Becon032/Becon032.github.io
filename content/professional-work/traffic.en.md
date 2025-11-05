@@ -4,8 +4,7 @@ draft: true
 title: "Traffic management VR"
 summary: "Training and exercise app for police employees."
 description: "Training and exercise app for police employees."
-tags: ["Unity", "VR", "C#", "Training app", "Commercial work", "Haptic device"]
-
+tags: ["Unity", "VR", "Haptic device"]
 ---
 
 # About
