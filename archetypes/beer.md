@@ -7,30 +7,37 @@ description: ""
 ---
 
 # About
+<!-- # Opis -->
 
 CHANGE ME: Description 
 
 CHANGE ME: MORE DESCRIPTION
 
 | Orginal Gravity | Final Gravity | ABV | IBU (tinseth) | SRM (morney) | Mash pH |
+<!-- | Ekstrakt poczatkowy | Ekstrakt koncowy | ABV | IBU (tinseth) | SRM (morney) | pH Zacieru | -->
 | ------ | ----- | ---- | ---- | --- | --- |
 | 00.0°P | 0.0°P | 0.0% | 00.0 | 0.0 | 0.0 |
 
 # Recipe
-### 💧 Water Profile
+## 💧 Water Profile
+<!-- # Przepis
+## 💧 Profil wody -->
 
 | Ca<sup>+2</sup> | Mg<sup>+2</sup> | SO<sub>4</sub><sup>-2</sup> | Na<sup>+</sup> | Cl<sup>-</sup> | HCO<sub>3</sub><sup>-</sup> |
 | --- | --- | --- | --- | --- | --- |
 | 000 | 00  | 000 | 00  | 000 | 000 | 
 
-### 🌾 Grain Bill
+## 🌾 Grain Bill
+<!-- ## 🌾 Zasyp -->
 
 For 0l preboil at 70% efficiency:
+<!-- Dla 0l przed gotowaniem przy 70% efektywnosci: -->
 - 0.0kg Pale Ale (Viking)
 - 0.0kg Pale Ale (Viking)
 - 0.0kg Pale Ale (Viking)
 
-#### Procentage Chart
+**Procentage Chart**
+<!-- **Wykres procentowy zasypu:** -->
 {{< chart 90 300>}}
 {
     type: 'pie',
@@ -63,7 +70,8 @@ For 0l preboil at 70% efficiency:
 }
 {{< /chart >}}
 
-### 🌸 Hops
+## 🌸 Hops
+<!-- ## 🌸 Chmiel -->
 - 000g: [hops (00.0 AA)](https://beermaverick.com/hop/)
 
 | Hops | Weight | Time |
@@ -73,12 +81,14 @@ For 0l preboil at 70% efficiency:
 | HOP | 00g | 00' |
 | HOP | 00g | dry hop |
 
-### 🍺 Fermentation and temperature
+## 🍺 Fermentation and temperature
+<!-- ## 🍺 Fermentacja i temperatura -->
 
 CHANGE ME: YEAST NAME
 [(yeast)](https://www.garshol.priv.no/download/farmhouse/kveik.html#kv1)
 
-#### CHANGE ME fermentation profile
+**Fermentation profile**
+<!-- **Profil fermentacji** -->
 
 {{< chart 90 300 >}}
 {

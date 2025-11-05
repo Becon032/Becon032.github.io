@@ -21,20 +21,20 @@ To naprawdę proste piwo w stylu West Coast – bez udziwnień, czyste, rześkie
 | 15.9°P | 3.1°P | 6.9% | 44.8 | 6.4 | 5.8 |
 
 # Przepis
-### 💧 Profil wody
+## 💧 Profil wody
 
 | Ca<sup>+2</sup> | Mg<sup>+2</sup> | SO<sub>4</sub><sup>-2</sup> | Na<sup>+</sup> | Cl<sup>-</sup> | HCO<sub>3</sub><sup>-</sup> |
 | --- | --- | --- | --- | --- | --- |
 | 45  | 7   | 0   | 28  | 45  | 174 | 
 
-### 🌾 Zasyp
+## 🌾 Zasyp
 
 Dla 30.93l przed gotowaniem przy 70% efektywnosci:
 - 5.0kg Pale Ale Malt (Viking)
 - 2.0kg Pilsner Malt (Viking)
 - 0.5kg Wheat Malt (Heidelberg BestMalz)
 
-#### Wykres procentowy zasypu:
+**Wykres procentowy zasypu:**
 {{< chart 90 300>}}
 {
     type: 'pie',
@@ -67,7 +67,7 @@ Dla 30.93l przed gotowaniem przy 70% efektywnosci:
 }
 {{< /chart >}}
 
-### 🌸 Chmiel
+## 🌸 Chmiel
 - 50g: [Chinook hops (12.1 AA)](https://beermaverick.com/hop/chinook/)
 
 | Chmiel | Waga | Czas |
@@ -75,12 +75,12 @@ Dla 30.93l przed gotowaniem przy 70% efektywnosci:
 | Chinook | 30g | 60' |
 | Chinook | 20g | Aroma |
 
-### 🍺 Fermentacja i temperatura 
+## 🍺 Fermentacja i temperatura 
 
 Fermentis - American Ale Yeast
 [US-05](https://fermentis.com/en/product/safale-us%E2%80%9105/)
 
-#### Profil fermentacji
+**Profil fermentacji**
 
 {{< chart 90 300 >}}
 {

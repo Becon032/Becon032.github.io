@@ -21,13 +21,13 @@ Smooth, elegant with very subtle hop bitterness.
 | 11.9°P | 1.8°P | 5.4% | 20.1 | 4.5 | 5.2 |
 
 # Recipe
-### 💧 Water Profile
+## 💧 Water Profile
 
 | Ca<sup>+2</sup> | Mg<sup>+2</sup> | SO<sub>4</sub><sup>-2</sup> | Na<sup>+</sup> | Cl<sup>-</sup> | HCO<sub>3</sub><sup>-</sup> |
 | --- | --- | --- | --- | --- | --- |
 | 21  | 5.2 | 18  | 16  | 21  | 84  | 
 
-### 🌾 Grain Bill
+## 🌾 Grain Bill
 
 For 25.93l preboil at 70% efficiency:
 - 3.75kg Pilsner Malt (Viking)
@@ -36,7 +36,7 @@ For 25.93l preboil at 70% efficiency:
 - 0.10kg Melanoidin (Weyermann)
 - 0.25kg Acidulated (Weyermann)
 
-#### Procentage Chart
+**Procentage Chart**
 {{< chart 90 300>}}
 {
     type: 'pie',
@@ -69,7 +69,7 @@ For 25.93l preboil at 70% efficiency:
 }
 {{< /chart >}}
 
-### 🌸 Hops
+## 🌸 Hops
 - 50g: [Lublin hops (4.1 AA)](https://beermaverick.com/hop/lublin/)
 
 | Hops | Weight | Time |
@@ -77,12 +77,12 @@ For 25.93l preboil at 70% efficiency:
 | Lublin | 40g | 30' |
 | Lublin | 10g | 10' |
 
-### 🍺 Fermentation and temperature
+## 🍺 Fermentation and temperature
 
 Fermentis Saflager - 
 [W-34/70](https://fermentis.com/en/product/saflager-w%E2%80%9134-70/)
 
-#### Clear fermentation profile with lagering stage 
+**Fermentation Profile** 
 
 {{< chart 90 300 >}}
 {

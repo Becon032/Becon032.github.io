@@ -20,20 +20,20 @@ It's really a simple West Coast style beer - nothing fancy, just clean, crisp an
 | 15.9°P | 3.1°P | 6.9% | 44.8 | 6.4 | 5.8 |
 
 # Recipe
-### 💧 Water Profile
+## 💧 Water Profile
 
 | Ca<sup>+2</sup> | Mg<sup>+2</sup> | SO<sub>4</sub><sup>-2</sup> | Na<sup>+</sup> | Cl<sup>-</sup> | HCO<sub>3</sub><sup>-</sup> |
 | --- | --- | --- | --- | --- | --- |
 | 45  | 7   | 0   | 28  | 45  | 174 | 
 
-### 🌾 Grain Bill
+## 🌾 Grain Bill
 
 For 30.93l preboil at 70% efficiency:
 - 5.0kg Pale Ale Malt (Viking)
 - 2.0kg Pilsner Malt (Viking)
 - 0.5kg Wheat Malt (Heidelberg BestMalz)
 
-#### Procentage Chart
+**Procentage Chart**
 {{< chart 90 300>}}
 {
     type: 'pie',
@@ -66,7 +66,7 @@ For 30.93l preboil at 70% efficiency:
 }
 {{< /chart >}}
 
-### 🌸 Hops
+## 🌸 Hops
 - 50g: [Chinook hops (12.1 AA)](https://beermaverick.com/hop/chinook/)
 
 | Hops | Weight | Time |
@@ -74,12 +74,12 @@ For 30.93l preboil at 70% efficiency:
 | Chinook | 30g | 60' |
 | Chinook | 20g | Aroma |
 
-### 🍺 Fermentation and temperature
+## 🍺 Fermentation and temperature
 
 Fermentis - American Ale Yeast
 [US-05](https://fermentis.com/en/product/safale-us%E2%80%9105/)
 
-#### Fermentation profile
+**Fermentation profile**
 
 {{< chart 90 300 >}}
 {

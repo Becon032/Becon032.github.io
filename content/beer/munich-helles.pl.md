@@ -21,13 +21,13 @@ Gładkie, eleganckie, z bardzo subtelną goryczką chmielową.
 | 11.9°P | 1.8°P | 5.4% | 20.1 | 4.5 | 5.2 |
 
 # Przepis
-### 💧 Profil wody
+## 💧 Profil wody
 
 | Ca<sup>+2</sup> | Mg<sup>+2</sup> | SO<sub>4</sub><sup>-2</sup> | Na<sup>+</sup> | Cl<sup>-</sup> | HCO<sub>3</sub><sup>-</sup> |
 | --- | --- | --- | --- | --- | --- |
 | 21  | 5.2 | 18  | 16  | 21  | 84  | 
 
-### 🌾 Zasyp
+## 🌾 Zasyp
 
 Dla 25.93l przed gotowaniem przy 70% efektywnosci:
 - 3.75kg Pilsner Malt (Viking)
@@ -36,7 +36,7 @@ Dla 25.93l przed gotowaniem przy 70% efektywnosci:
 - 0.10kg Melanoidin (Weyermann)
 - 0.25kg Acidulated (Weyermann)
 
-#### Wykres procentowy zasypu:
+**Wykres procentowy zasypu:**
 {{< chart 90 300>}}
 {
     type: 'pie',
@@ -69,7 +69,7 @@ Dla 25.93l przed gotowaniem przy 70% efektywnosci:
 }
 {{< /chart >}}
 
-### 🌸 Chmiel
+## 🌸 Chmiel
 - 50g: [Lublin hops (4.1 AA)](https://beermaverick.com/hop/lublin/)
 
 | Chmiel | Waga | Czas |
@@ -77,12 +77,12 @@ Dla 25.93l przed gotowaniem przy 70% efektywnosci:
 | Lublin | 40g | 30' |
 | Lublin | 10g | 10' |
 
-### 🍺 Fermentacja i temperatura 
+## 🍺 Fermentacja i temperatura
 
 Fermentis Saflager - 
 [W-34/70](https://fermentis.com/en/product/saflager-w%E2%80%9134-70/)
 
-#### Klarowny profil fermentacji, lagerowane 
+**Profil Fermentacji** 
 
 {{< chart 90 300 >}}
 {

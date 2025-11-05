@@ -19,19 +19,19 @@ W rezultacie otrzymujemy słoneczne, aromatyczne piwo typu pale ale, które jest
 | 14.5°P | 3.0°P | 6.5% | 52.9 | 6.0 | 5.8 |
 
 # Przepis
-### 💧 Profil wody
+## 💧 Profil wody
 
 | Ca<sup>+2</sup> | Mg<sup>+2</sup> | SO<sub>4</sub><sup>-2</sup> | Na<sup>+</sup> | Cl<sup>-</sup> | HCO<sub>3</sub><sup>-</sup> |
 | --- | --- | --- | --- | --- | --- |
 | 150 | 10  | 160 | 80  | 150 | 220 | 
 
-### 🌾 Zasyp
+## 🌾 Zasyp
 
 Dla 26.03l przed gotowaniem przy 70% efektywnosci:
 - 5.5kg Pale Ale (Viking)
 - 0.5kg Carmel 30 (Viking)
 
-#### Wykres procentowy zasypu:
+**Wykres procentowy zasypu:**
 {{< chart 90 300>}}
 {
     type: 'pie',
@@ -56,7 +56,7 @@ Dla 26.03l przed gotowaniem przy 70% efektywnosci:
 }
 {{< /chart >}}
 
-### 🌸 Chmiel
+## 🌸 Chmiel
 - 100g: [Armarillo hops (10.4 AA)](https://beermaverick.com/hop/amarillo/)
 
 | Chmiel | Waga | Czas |
@@ -66,12 +66,12 @@ Dla 26.03l przed gotowaniem przy 70% efektywnosci:
 | Amarillo | 30g | 5' |
 | Amarillo | 30g | dry hop |
 
-### 🍺 Fermentacja i temperatura 
+## 🍺 Fermentacja i temperatura 
 
 Norsk Kviek K.1 Sigmund's Voss
 [(Rejest drożdży farmhouse)](https://www.garshol.priv.no/download/farmhouse/kveik.html#kv1)
 
-#### Szybki i ciepły profil fermentacji:
+**Profil fermentacji**
 {{< chart 90 300 >}}
 {
     type: 'line',
