@@ -1,42 +1,41 @@
 ---
 date: '2022-11-03T22:38:03+01:00'
-draft: true
+draft: false
 title: 'QR Code bottle cap'
-summary: "An alternative to beer labers."
-description: "An alternative to beer labers."
+summary: "An alternative to beer labels."
+description: "An alternative to beer labels."
 cover:
-    image: thumbnail.png
+    image: thumbnail.webp
 ---
 
-# About
+## About
 
 Manually writing beer names and other details on every bottle didn't seem like a great idea.
-I needed somethig better, that does not add to already long process.
+I needed something better that wouldn't add even more time to the already long process.
 
-Insterd of making stickers and manually applying them to every bottle, I decided printing QR code on a bottle cap.
-Engraving logos on caps is pretty popular thing to do, so getting them in bulk wasn't hard.
+Instead of creating custom stickers or labels and manually applying them by hand, I decided to print a QR code on a bottle cap.
+Engraving logos on caps is pretty common, so ordering them in bulk wasn't hard.
 
-# QR Engraving
+## QR Engraving
 
-Creating QR codes is pretty straightfoward, but we need to keep link length they encode to a minimum.
-First versions pointed directry to [jarzebowski.net/beer](/beer), but this caused tiny squeres that are hard to scan with phones.
+Creating QR codes is easy, but it's important to keep the encoded linka as short as possible.
+The first versions pointed directly to [jarzebowski.net/beer](/beer), but that resulted in very tiny squares that where hard to scan with a phone.
 
 **Early failed versions**
-![qr code engraving fail](early-qr.png)
+![qr code engraving fail](early-qr.webp)
 
+Almost all QR code generator outputs cause issues when used directly in a laser path generator.
+The SVG file needs to be manually edited - connecting every individual rectangle with its neighbors.
 
-There was a issue with laser path caused by almost all QR generators.
-The SVG file needs to be manually edited - connecting every individual rectangle with its neighbours.
-
-Golden caps also caused scanning inacuracy, so right now I'm stuck to black paint ones that can chip away when capping. 
+Golden-colored caps also caused scanning inaccuracy, so right now I'm using black-painted ones, which can chip away during capping.
 
 **Final product**
-![alt](final-qr.png)
+![alt](final-on-bottle.webp)
 
-# Unexpected result
+## Unexpected result
 
-When enlarging the QR code squeres to make it easier to scan, I lost ability to link users directly to the beer archive page.
-Now, the code points us to my website landing page.
+When I enlarged the QR code to make it easier to scan, I lost the ability to link users directly to the beer archive page.
+The final QR code now points to my website's landing page.
 
-But maybe, that turned out to be a good thing?
-Now my beer caps double as very werid business card.
+But maybe that turned out to be a good thing?
+Now my beer caps double as very weird business cards.

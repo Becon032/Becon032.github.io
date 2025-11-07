@@ -21,7 +21,7 @@ menu:
 params:
   ShowToc: true
   defaultTheme: auto
-  ShowReadingTime: true
+  # ShowReadingTime: true
   ShowCodeCopyButtons: true
   displayFullLangName: true
   ShowPageNums: true
@@ -73,7 +73,7 @@ languages:
         content: "Polski about me!"
   
 
-# Gitlab chash images
+# Gitlab cash images
 caches:
   images:
     dir: :cacheDir/images
