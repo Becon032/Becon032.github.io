@@ -1,76 +1,34 @@
 baseURL: "https://becon032.github.io/"
-title: "Bartosz Jarzębowski"
+title: "Piwne Repozytorium"
 theme: ["hugo-chart", "PaperMod"]
 
 enableEmoji: true
-menu:
-  main:
-    - name: My professional work
-      url: professional-work
-      weight: 10
-    - name: Makes
-      url: makes/
-      weight: 20
-    - name: Beer
-      url: beer/
-      weight: 30
-    - name: Search
-      url: search/
-      weight: 100
-    
-params:
-  ShowToc: true
-  defaultTheme: auto
-  # ShowReadingTime: true
-  ShowCodeCopyButtons: true
-  displayFullLangName: true
-  ShowPageNums: true
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
-  ShowAllPagesInArchive: true
-
-  socialIcons:
-    - name: "Github"
-      url: "https://github.com/Becon032/"
-    - name: "X"
-      url: "https://x.com/Becon032"
-    - name: "LinkedIn"
-      url: "https://www.linkedin.com/in/bartosz-jarz%C4%99bowski-5b8b3a1b8/"
-    - name: email
-      url: "mailto:bartoszjarzebowski@proton.me"
-    - name: "cv"
-      title: "Résumé.pdf"
-      url: "https://jarzebowski.net/static/Jarzebowski-resume-1e9c9165533014cd572ac4dc9e47c9f7.pdf"
-
-  homeInfoParams:
-    title: "Hello World!"
-    content: "About me is here!"
-
-  mainSections:
-    - beer
-    - makes
-    - professional-work
-
 
 languages:
-
-  en:
-    languageName: 🇬🇧 English
-    languageCode: en-US
-    weight: 1
-    params:
-      languageAltTitle: "English"
-
   pl:
-    languageName: 🇵🇱 Polski
+    languageName: Polski
     languageCode: pl-PL
-    weight: 2
     params:
       languageAltTitle: "Polski"
 
-      homeInfoParams:
-        title: "Witaj World!"
-        content: "Polski about me!"
+
+params:
+  ShowToc: true
+  defaultTheme: auto
+  ShowCodeCopyButtons: true
+  ShowPageNums: true
+  ShowPostNavLinks: true
+  # ShowBreadCrumbs: true
+
+  homeInfoParams:
+    title: "Hello World!"
+    content: "Moje przepisy piwowarskie. Zobacz to co teraz pijesz ↓ ↓ ↓"
+
+  # socialIcons:
+  # - name: "Github"
+  #   url: "https://github.com/Becon032/"
+  # - name: "X"
+  #   url: "https://x.com/Becon032"
   
 
 # Gitlab cash images

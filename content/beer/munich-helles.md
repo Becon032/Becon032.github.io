@@ -11,10 +11,9 @@ description: "Munich Helles Lager PL"
 Niemieckie piwo Munich Helles Lager z polskim chmielem.
 
 Klasyczny styl piwa z kwiatowym urokiem polskiego chmielu lubelskiego.
-Powoli fermentowane w niskiej temperaturze i lagerowane w celu uzyskania klarowności i wyrafinowania.
+Fermentowane w niskiej temperaturze i lagerowane w celu uzyskania klarowności i wyrafinowania.
 Piwo to podkreśla delikatną słodycz słodu pilzneńskiego.
-W rezultacie otrzymujemy rześkie, klarowne piwo typu lager o aromacie świeżego chleba, kwiatów łąkowych i nutą ziołowej przyprawy.
-Gładkie, eleganckie, z bardzo subtelną goryczką chmielową.
+Otrzymujemy rześkie, klarowne piwo typu lager o aromacie świeżego chleba i kwiatów łąkowych.
 
 | Ekstrakt poczatkowy | Ekstrakt koncowy | ABV | IBU (tinseth) | SRM (morney) | pH Zacieru |
 | ------ | ----- | ---- | ---- | --- | --- |

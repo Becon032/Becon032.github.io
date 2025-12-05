@@ -10,9 +10,8 @@ description: "Kveik Voss Singlehop APA"
 
 Norweskie drożdże farmerskie z amerykańskim chmielem Pale Ale.
 
-Warzone w celu pokazania synergii między drożdżami Kveik Voss a chmielem Amarillo. 
-Fermentowane w wysokiej temperaturze, aby wydobyć jego wyjątkowe estry cytrusowe – skórkę pomarańczy i mandarynkę, uzupełniające kwiatowy i cytrusowy aromat Amarillo.
-W rezultacie otrzymujemy słoneczne, aromatyczne piwo typu pale ale, które jest jasne, soczyste i łatwe do picia, z czystym, wytrawnym finiszem z nutą goryczy.
+Fermentowane w wysokiej temperaturze, aby wydobyć jego wyjątkowe estry cytrusowe: skórkę pomarańczy i mandarynkę, uzupełniające kwiatowy i cytrusowy aromat chmielu Amarillo.
+Otrzymujemy słoneczne, aromatyczne piwo typu pale ale, które jest jasne, soczyste i łatwe do picia, z czystym, wytrawnym finiszem z nutą goryczy.
 
 | Ekstrakt poczatkowy | Ekstrakt koncowy | ABV | IBU (tinseth) | SRM (morney) | pH Zacieru |
 | ------ | ----- | ---- | ---- | --- | --- |

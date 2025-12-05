@@ -6,34 +6,33 @@ summary: "West Coast IPA, low IBU"
 description: "West Coast IPA, low IBU"
 ---
 
-# About
+# Opis
 
-West Coast Indian Pale Ale with Chinook hops.
+West Coast Indian Pale Ale z chmielem Chinook.
 
-I brewed this with one goal in mind - cheep, easy-drinking party beer. 
-An alternative to those highly fermented eurolagers, but one that actually taste good. 
-It has restrained bitterness compared to classic West Coast, making it smooth and approchable. Chinnok hops bring a light, spicy edge but are used sparingly to keep the IBU somewhat low. 
-It's really a simple West Coast style beer - nothing fancy, just clean, crisp and cheap to make! 
+Niska goryczka w porównaniu do klasycznego West Coasta, przez co piwo jest gładkie i przystępne.
+Chinook dodaje lekkiej, pikantnej nuty, ale użyty oszczędnie, by utrzymać w miare niski poziom IBU.
+To naprawdę proste piwo w stylu West Coast - czyste, rześkie i tanie w produkcji!
 
-| Orginal Gravity | Final Gravity | ABV | IBU (tinseth) | SRM (morney) | Mash pH |
+| Ekstrakt poczatkowy | Ekstrakt koncowy | ABV | IBU (tinseth) | SRM (morney) | pH Zacieru |
 | ------ | ----- | ---- | ---- | --- | --- |
 | 15.9°P | 3.1°P | 6.9% | 44.8 | 6.4 | 5.8 |
 
-# Recipe
-## 💧 Water Profile
+# Przepis
+## 💧 Profil wody
 
 | Ca<sup>+2</sup> | Mg<sup>+2</sup> | SO<sub>4</sub><sup>-2</sup> | Na<sup>+</sup> | Cl<sup>-</sup> | HCO<sub>3</sub><sup>-</sup> |
 | --- | --- | --- | --- | --- | --- |
 | 45  | 7   | 0   | 28  | 45  | 174 | 
 
-## 🌾 Grain Bill
+## 🌾 Zasyp
 
-For 30.93l preboil at 70% efficiency:
+Dla 30.93l przed gotowaniem przy 70% efektywnosci:
 - 5.0kg Pale Ale Malt (Viking)
 - 2.0kg Pilsner Malt (Viking)
 - 0.5kg Wheat Malt (Heidelberg BestMalz)
 
-**Procentage Chart**
+**Wykres procentowy zasypu:**
 {{< chart 90 300>}}
 {
     type: 'pie',
@@ -66,20 +65,20 @@ For 30.93l preboil at 70% efficiency:
 }
 {{< /chart >}}
 
-## 🌸 Hops
+## 🌸 Chmiel
 - 50g: [Chinook hops (12.1 AA)](https://beermaverick.com/hop/chinook/)
 
-| Hops | Weight | Time |
+| Chmiel | Waga | Czas |
 | ---- | ------ | ---- |
 | Chinook | 30g | 60' |
 | Chinook | 20g | Aroma |
 
-## 🍺 Fermentation and temperature
+## 🍺 Fermentacja i temperatura 
 
 Fermentis - American Ale Yeast
 [US-05](https://fermentis.com/en/product/safale-us%E2%80%9105/)
 
-**Fermentation profile**
+**Profil fermentacji**
 
 {{< chart 90 300 >}}
 {
